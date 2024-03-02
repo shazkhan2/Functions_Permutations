@@ -1,3 +1,4 @@
+Contents copied from training exercises.
 1. Log out the text Called after 2.5 seconds 2.5 seconds after the script is loaded.
 
 2. Create a function that takes 2 parameters: delay and stringToLog...
